@@ -41,21 +41,21 @@ Follow these instructions to get the project running on your local machine.
 -   Python 3.10 or 3.11
 -   A virtual environment tool (`venv`)
 
-### Installation & Setup
+### Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/muhalwan/california_housing_price_predictor](https://github.com/muhalwan/california_housing_price_predictor)
+    git clone [https://github.com/muhalwan/california_housing_price_predictor.git](https://github.com/muhalwan/california_housing_price_predictor.git)
     cd california_housing_price_predictor
     ```
 
 2.  **Create and activate a virtual environment:**
     ```bash
-    python3.11 -m venv venv
-    source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
-3.  **Install the required dependencies:**
+3.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```

@@ -45,7 +45,7 @@ Follow these instructions to get the project running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/muhalwan/california_housing_price_predictor.git](https://github.com/muhalwan/california_housing_price_predictor.git)
+    git clone https://github.com/muhalwan/california_housing_price_predictor.git
     cd california_housing_price_predictor
     ```
 
